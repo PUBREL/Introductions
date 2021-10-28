@@ -2,7 +2,8 @@
 # Editing README file
 ## Meta-description
 
-Totodingi introduced the class on how to edit README files. These included, header creation, listing, image and [link] ( insertions and add emojis :smile:, 
+Totodingi introduced the class on how to edit README files. These included, header creation, listing, image and [link] ( insertions and add emojis :smile:
+____
 
 
 
@@ -16,7 +17,7 @@ that was a nice lesson :thumbsup:
     ***
     i) Reading
     
-    ii) Programming
+    ii) -Programming-
     
     iii) GitHub
     
