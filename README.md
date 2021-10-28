@@ -14,9 +14,11 @@ that was a nice lesson :thumbsup:
 1. Bonface Onyango
     #### My interests
     ***
-    i. Reading
-    ii. Programming
-    iii. GitHub
+    i) Reading
+    
+    ii) Programming
+    
+    iii) GitHub
     
     #### Hobbies
     ##### Games
