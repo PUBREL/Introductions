@@ -1,16 +1,17 @@
 
-# About 
+# Editing README file
+## Meta-description
 
-Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and the bioinformatics community at large. To Introduce yourself, fork the repo, edit the readme file, add your name and interests then submit a pull request. 
+Totodingi introduced the class on how to edit README files. These included, header creation, listing, image and [link] ( insertions and add emojis :smile:, 
 
 
 
-😺 Happy Hacking !!
+�that was a nice lesson :thumbsup:
 
 
 ## Community
 
-1. [Wilson Mudaki](https://github.com/totodingi)
+1. Bonface Onyango
     #### Interests
     ---
     - Machine Learning & AI
