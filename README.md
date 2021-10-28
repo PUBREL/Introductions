@@ -6,21 +6,32 @@ Totodingi introduced the class on how to edit README files. These included, head
 
 
 
-�that was a nice lesson :thumbsup:
+that was a nice lesson :thumbsup:
 
 
 ## Community
 
 1. Bonface Onyango
-    #### Interests
-    ---
-    - Machine Learning & AI
-    - Software development
+    #### My interests
+    ***
+    i. Reading
+    ii. Programming
+    iii. 
     
     #### Hobbies
-    ---
-    - Playing piano
-    - Video games
-    - Playing Chess 
+    ##### Games
+    1. Watching football
+    2. Playing chess
+    3. Playing football
+    
+    ###### Entertainment
+    * Listening to music
+    * Dancing
+   ###### Technology
+    -[Internet surfing](https://techwithtech.com/internet-surfing-meaning/ 'this an absolute link . Explains the meaning of internet surfing')
+
+    -Social media inteructions like ![LinkedIn](
+
+    
    
   
