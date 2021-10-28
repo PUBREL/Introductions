@@ -1,7 +1,7 @@
 
 # About 
 
-Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and the bioinformatics community at large. To Intoduce yourself, fork the repo, edit the readme file, add your name and interests then submit a pull request. 
+Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and the bioinformatics community at large. To Introduce yourself, fork the repo, edit the readme file, add your name and interests then submit a pull request. 
 
 
 
