@@ -17,14 +17,14 @@ that was a nice lesson :thumbsup:
     ***
     i) Reading
     
-    ii) -Programming-
+    ii) Programming
     
     iii) GitHub
     
     #### Hobbies
     ##### Games
     
-    1. Watching football
+    1. Watching [football](www.arsenal.come 'This is a relative link to my football club')
     2. ~~Watching football~~
     3. <watching football>
     3. Playing chess ![chess](https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/16:9/w_2400,h_1350,c_limit/business_chess_1200074974.jpg)
