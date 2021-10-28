@@ -21,13 +21,13 @@ that was a nice lesson :thumbsup:
     #### Hobbies
     ##### Games
     
-    1. <Watching football>
+    1. Watching football
     2. ~~Watching football~~
-    3. watching football
+    3. <watching football>
     3. Playing chess ![chess](https://media.wired.com/photos/5f592bfb643fbe1f6e6807ec/16:9/w_2400,h_1350,c_limit/business_chess_1200074974.jpg)
     ----
-    4. Playing footbal
-    5. 
+    4. __Playing footbal__
+    5. _playing football_
     6. **Video watching**
     
     ###### Entertainment
