@@ -22,4 +22,11 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     - Video games
     - Playing Chess 
    
-  
+  5. [Brenda Kamau](https://github.com/brendamuthonikamau)
+      #### Interests
+      - Bioinformatics
+      - Genomics
+      #### Hobbies
+      - Adventuring :bus:
+      - Music :musical_score:
+      - Sleeping :sleeping_bed: :sleeping:
