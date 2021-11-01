@@ -21,5 +21,22 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     - Playing piano
     - Video games
     - Playing Chess 
+  
+  2. [George Kitundu](https://github.com/EorgeKit)
+  
+   #### Interests
+   ---
+   - Biotechnology enterprises
+   - Virology (escape mutants development)
+   - Youth developmnent and enterpreneurship
+    
+   #### Hobbies
+   ---
+   - Playing guitar
+   - Video games
+   - Reading books
+   - Jogging
+   - Swimming
+   - Adventure
    
   
