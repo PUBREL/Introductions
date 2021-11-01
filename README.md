@@ -23,3 +23,30 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     - Playing Chess 
    
   
+
+
+2. [Kivumbi Mark Tefero](https://github.com/tefer0 "You can find me here on github")
+
+    This is ~not~ me. 
+
+![image](https://user-images.githubusercontent.com/67194450/139676311-c9169250-3f40-4854-9cd0-e9decc9a6ad5.png)
+
+    
+   #### *Maslahi*
+   ---
+   - Udukuzi
+    
+   #### _Hobbies_
+   ---
+   - Ili kudukua.
+   - Kufunga zana za udukuzi.
+   - Inapakia zana za udukuzi.
+   - Udukuzi.
+   - Imedukuliwa.
+   - Nishike ukiweza.
+   - :running:
+
+
+![image](https://user-images.githubusercontent.com/67194450/139676766-65afe1e5-9fa4-4402-b588-3b3782901be6.png)
+
+        
