@@ -21,5 +21,19 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     - Playing piano
     - Video games
     - Playing Chess 
+    
+ 2. [Brenda Kiage](https://github.com/Kiage24)
+    #### Interests
+     - Bioinformatics
+     
+     - Virology
+ 
+    #### Hobbies
+     - Music :trumpet:
+     
+     - Travelling :hiking_boot: :mountain:
+     
+     - Swimming :swimming_woman:
+    
    
   
