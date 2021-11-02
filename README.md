@@ -38,5 +38,20 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
    - Jogging
    - Swimming
    - Adventure
+    
+ 2. [Brenda Kiage](https://github.com/Kiage24)
+    #### Interests
+     - Bioinformatics
+     
+     - Virology
+ 
+    #### Hobbies
+     - Music :trumpet:
+     
+     - Travelling :hiking_boot: :mountain:
+     
+     - Swimming :swimming_woman:
+    
+
    
   
