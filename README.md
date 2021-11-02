@@ -56,22 +56,4 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     
 
    
-2. [Kauthar Omar](https://github.com/Kauthar-Omar)
-
-Hello :wave:. 
-
-  #### Interests 
-  ---
-  - Genomics
-  - Machine Learning
-    
-  #### Hobbies
-  ---
-  - Board games
-  - Safaris
-  - Learning new languages
-    
-Feel free to interact with me on [twitter](https://twitter.com/K__Omar) and lets get to know each other :smile:.
-    
-    
   
