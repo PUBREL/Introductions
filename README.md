@@ -20,9 +20,11 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     ---
     - Playing piano
     - Video games
-    - Playing Chess 
+    - Playing Chess
+   
+   
   
-  2. [George Kitundu](https://github.com/EorgeKit)
+2. [George Kitundu](https://github.com/EorgeKit)
   
    #### Interests
    ---
