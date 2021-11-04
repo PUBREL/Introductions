@@ -81,3 +81,25 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Adventuring :bus:
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
+     
+  
+  6. [Felix Lisso](https://github.com/felixmathiaslisso)
+     #### Interests.
+     ---
+     - Biotechnology and life sciences.
+     - Information Technology.
+     - Fine arts and Music.
+     - Philosophy,refined Politics and Spirituality.
+     - Nature.
+     
+     #### Hobbies.
+     ---
+     - Singing, playing guitar, composing musical pieces.
+     - Reading books.
+     - Writing poems.
+     - COOKING.
+     - Movies.
+     - Martial arts.
+     - Basketball.
+     - Roadwalks.
+     - Daydreaming.
