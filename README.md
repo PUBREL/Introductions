@@ -81,3 +81,18 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Adventuring :bus:
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
+
+6. [Hilda Wacuka](https://github.com/HildaWacu)
+      #### **Interests**
+      ---
+      - Immunoinformatics :microbe:
+      - Genomics :dna:
+        - Gene mapping
+      - Machine learning :computer:
+     
+      #### **Hobbies**
+      ___
+      - 🎸
+      - 🏊‍♀️
+      - 🚵
+      - 📷
