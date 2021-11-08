@@ -81,3 +81,17 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Adventuring :bus:
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
+
+6. [Samuel Oduor](https://github.com/samordil)
+    #### Interests
+    ---
+    - Machine Learning
+    - Statistics
+    - Bioinformatics
+    
+    #### Hobbies
+    ---
+    - Video editing and Photography
+    - Movies
+    - Swimming
+    - Road Trips (Adventure)
