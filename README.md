@@ -92,6 +92,6 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     #### Hobbies
     ---
     - Video editing and Photography
-    - Movies
+    - Watching Movies
     - Swimming
     - Road Trips (Adventure)
