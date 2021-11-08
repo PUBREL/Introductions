@@ -82,18 +82,17 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
 
----
-9. [NDUGWA HENRY](https://github.com/ndugwa)
+ 9. [NDUGWA HENRY](https://github.com/ndugwa)
 
- :wave:
- #### Interests
- - Machine learning
- - Drug design and modeling
-    
-#### Hobbies  
+     :wave:
+     #### Interests
+     - Machine learning
+     - Drug design and modeling
 
-* movies
-* adventure :boat::airplane: :ringed_planet:
-    
+    #### Hobbies  
+
+    * movies
+    * adventure :boat::airplane: :ringed_planet:
+
 
 
