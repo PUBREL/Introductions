@@ -152,4 +152,17 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       * Dancing 💃
       * DIYs 
 
+ 6. [Hilda Wacuka](https://github.com/HildaWacu)
+      #### **Interests**
+      ---
+      - Immunoinformatics :microbe:
+      - Genomics :dna:
+        - Gene mapping
+      - Machine learning :computer:
      
+      #### **Hobbies**
+      ___
+      - 🎸
+      - 🏊‍♀️
+      - 🚵
+      - 📷
