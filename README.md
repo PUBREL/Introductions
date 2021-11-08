@@ -25,7 +25,7 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
    
   
 2. [George Kitundu](https://github.com/EorgeKit)
-  
+ 
    #### Interests
    ---
    - Biotechnology enterprises
@@ -81,9 +81,45 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Adventuring :bus:
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
-     
-  
-  6. [Felix Lisso](https://github.com/felixmathiaslisso)
+
+ 9. [NDUGWA HENRY](https://github.com/ndugwa)
+
+     :wave:
+     #### Interests
+     - Machine learning
+     - Drug design and modeling
+
+    #### Hobbies  
+
+    * movies
+    * adventure :boat::airplane: :ringed_planet:
+
+
+ 2. [Kivumbi Mark Tefero](https://github.com/tefer0 "You can find me here on github")
+
+        This is ~not~ me. 
+
+    ![image](https://user-images.githubusercontent.com/67194450/139676311-c9169250-3f40-4854-9cd0-e9decc9a6ad5.png)
+
+
+       #### *Maslahi*
+       ---
+       - Udukuzi
+
+       #### _Hobbies_
+       ---
+       - Ili kudukua.
+       - Kufunga zana za udukuzi.
+       - Inapakia zana za udukuzi.
+       - Udukuzi.
+       - Imedukuliwa.
+       - Nishike ukiweza.
+       - :running:
+
+
+    ![image](https://user-images.githubusercontent.com/67194450/139676766-65afe1e5-9fa4-4402-b588-3b3782901be6.png)
+
+ 6. [Felix Lisso](https://github.com/felixmathiaslisso)
      #### Interests.
      ---
      - Biotechnology and life sciences.
@@ -103,3 +139,4 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
      - Basketball.
      - Roadwalks.
      - Daydreaming.
+     
