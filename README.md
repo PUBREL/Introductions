@@ -25,7 +25,7 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
    
   
 2. [George Kitundu](https://github.com/EorgeKit)
-  
+ 
    #### Interests
    ---
    - Biotechnology enterprises
@@ -82,7 +82,92 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - Music :musical_score:
       - Sleeping :sleeping_bed: :sleeping:
 
-6. [Samuel Oduor](https://github.com/samordil)
+ 9. [NDUGWA HENRY](https://github.com/ndugwa)
+
+     :wave:
+     #### Interests
+     - Machine learning
+     - Drug design and modeling
+
+    #### Hobbies  
+
+    * movies
+    * adventure :boat::airplane: :ringed_planet:
+
+
+ 2. [Kivumbi Mark Tefero](https://github.com/tefer0 "You can find me here on github")
+
+        This is ~not~ me. 
+
+    ![image](https://user-images.githubusercontent.com/67194450/139676311-c9169250-3f40-4854-9cd0-e9decc9a6ad5.png)
+
+
+       #### *Maslahi*
+       ---
+       - Udukuzi
+
+       #### _Hobbies_
+       ---
+       - Ili kudukua.
+       - Kufunga zana za udukuzi.
+       - Inapakia zana za udukuzi.
+       - Udukuzi.
+       - Imedukuliwa.
+       - Nishike ukiweza.
+       - :running:
+
+
+    ![image](https://user-images.githubusercontent.com/67194450/139676766-65afe1e5-9fa4-4402-b588-3b3782901be6.png)
+
+ 6. [Felix Lisso](https://github.com/felixmathiaslisso)
+     #### Interests.
+     ---
+     - Biotechnology and life sciences.
+     - Information Technology.
+     - Fine arts and Music.
+     - Philosophy,refined Politics and Spirituality.
+     - Nature.
+     
+     #### Hobbies.
+     ---
+     - Singing, playing guitar, composing musical pieces.
+     - Reading books.
+     - Writing poems.
+     - COOKING.
+     - Movies.
+     - Martial arts.
+     - Basketball.
+     - Roadwalks.
+     - Daydreaming.
+     
+ 6. [Violet Chege](https://github.com/VioletChege)
+      #### Interests 
+      ---
+      * Bioinformatics
+      * Learning code
+      * Business management
+      ####  Hobbies
+      ---
+      * Blitz card game 🎴
+      * Dancing 💃
+      * DIYs 
+
+ 6. [Hilda Wacuka](https://github.com/HildaWacu)
+      #### **Interests**
+      ---
+      - Immunoinformatics :microbe:
+      - Genomics :dna:
+        - Gene mapping
+      - Machine learning :computer:
+     
+      #### **Hobbies**
+      ___
+      - 🎸
+      - 🏊‍♀️
+      - 🚵
+      - 📷
+      
+ 6. [Samuel Oduor](https://github.com/samordil)
     #### Interests
     ---
     - Machine Learning
