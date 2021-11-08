@@ -127,6 +127,7 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
      - Fine arts and Music.
      - Philosophy,refined Politics and Spirituality.
      - Nature.
+     - Beth City
      
      #### Hobbies.
      ---
@@ -166,17 +167,3 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
       - 🏊‍♀️
       - 🚵
       - 📷
-      
- 6. [Samuel Oduor](https://github.com/samordil)
-    #### Interests
-    ---
-    - Machine Learning
-    - Statistics
-    - Bioinformatics
-    
-    #### Hobbies
-    ---
-    - Video editing and Photography
-    - Watching Movies
-    - Swimming
-    - Road Trips (Adventure)
