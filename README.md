@@ -138,7 +138,7 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
      - Martial arts.
      - Basketball.
      - Roadwalks.
-     - Daydreaming.
+     - Beth City.
      
  6. [Violet Chege](https://github.com/VioletChege)
       #### Interests 
