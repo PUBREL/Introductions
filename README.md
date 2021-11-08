@@ -119,3 +119,24 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
 
     ![image](https://user-images.githubusercontent.com/67194450/139676766-65afe1e5-9fa4-4402-b588-3b3782901be6.png)
 
+ 6. [Felix Lisso](https://github.com/felixmathiaslisso)
+     #### Interests.
+     ---
+     - Biotechnology and life sciences.
+     - Information Technology.
+     - Fine arts and Music.
+     - Philosophy,refined Politics and Spirituality.
+     - Nature.
+     
+     #### Hobbies.
+     ---
+     - Singing, playing guitar, composing musical pieces.
+     - Reading books.
+     - Writing poems.
+     - COOKING.
+     - Movies.
+     - Martial arts.
+     - Basketball.
+     - Roadwalks.
+     - Daydreaming.
+     
