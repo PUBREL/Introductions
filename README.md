@@ -140,3 +140,16 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
      - Roadwalks.
      - Daydreaming.
      
+ 6. [Violet Chege](https://github.com/VioletChege)
+      #### Interests 
+      ---
+      * Bioinformatics
+      * Learning code
+      * Business management
+      ####  Hobbies
+      ---
+      * Blitz card game 🎴
+      * Dancing 💃
+      * DIYs 
+
+     
