@@ -180,3 +180,18 @@ Karibu PUBReL 🎉 ... An Introductory  repo for maintainers, collaborators and 
     - Watching Movies
     - Swimming
     - Road Trips (Adventure)
+
+
+ 12. [Fredrick Kebaso](https://github.com/fredrickkebaso)
+ 
+ ### Interests
+ --- 
+ * Data Science and Big data
+ * Bioinformatics
+ 
+ ### Hobbies
+ ---
+ 
+ * Travelling
+ * Music
+ * Swimming
